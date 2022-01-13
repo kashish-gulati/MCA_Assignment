@@ -5,4 +5,4 @@ Assignment for Multi-Core Architecture by :-
 3. Madhur           1MS18CS063
 4. Manvendra Bansal 1MS18CS069
 
-Topic: Comparing Performance of quicksort on a random array in sequential and parallel execution
+Topic: Comparing Performance of quicksort in sequential and parallel execution
