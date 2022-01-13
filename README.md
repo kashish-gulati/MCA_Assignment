@@ -4,4 +4,5 @@ Assignment for Multi-Core Architecture by :-
 2. Laveesh Gupta    1MS18CS062
 3. Madhur           1MS18CS063
 4. Manvendra Bansal 1MS18CS069
+
 Topic: Comparing Performance of quicksort on a random array in sequential and parallel execution
