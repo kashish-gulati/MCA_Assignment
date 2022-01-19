@@ -6,3 +6,5 @@ Assignment for Multi-Core Architecture by :-
 4. Manvendra Bansal 1MS18CS069
 
 Topic: Comparing Performance of quicksort in sequential and parallel execution
+
+Video link:https://drive.google.com/file/d/1gCj3qEzDss_hdvMTVxW8C88_7bTX4vnR/view?usp=sharing
